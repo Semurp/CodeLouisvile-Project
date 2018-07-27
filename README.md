@@ -24,3 +24,5 @@ My custom javascript function is a quote generator. I have several quotes listed
 random number generator code 
 and then returns one of the listed quotes as a response. 
 That response is then displayed with my center div on the webpage.
+
+**To use the quote generator, just click the button that says "New Quote" in the center of the page.**
